@@ -1,183 +1,141 @@
-<h1 align="center">Hi 👋, I'm Usama Israr Khan</h1>
-<h3 align="center">A dedicated 🤖 Software Engineer @UBIT & Building Modern Web & AI Solutions from Pakistan.</h3>
+# <h1 align="center">Hi, I'm Usama Israr Khan</h1>
 
-<img align="right" style="border-radius: 50%;" width="300px" alt="coding" src="https://github.com/user-attachments/assets/b2e25a22-f4ca-4af3-a294-b33ac7c022c8">
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=usama1190&label=Profile%20views&color=0e75b6&style=flat" alt="usama1190" /></p>
-
-
-<h3>Tech Stack</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
-alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
-alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-alt="CSS"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-alt="Sass"/>
-<img src="https://img.shields.io/badge/Recoil-FFFFFF?style=for-the-badge&logo=recoil&logoColor=black"
-alt="Recoil"/>
-<img src="https://img.shields.io/badge/Zustand-43853D?style=for-the-badge&logo=react&logoColor=white"
-alt="Zustand"/>
-<img src="https://img.shields.io/badge/React%20Query-000000?style=for-the-badge&logo=react-query&logoColor=white"
-alt="React Query"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-alt="Jest"/>
-<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
-alt="Chakra UI"/>
-<img src="https://img.shields.io/badge/PrimeReact-1C2755?style=for-the-badge&logo=react&logoColor=white"
-alt="PrimeReact"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white"
-alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"
-alt="Redis"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"
-alt="Express.js"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-alt="GraphQL"/>
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"
-alt="Apollo GraphQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
-alt="Sequelize"/>
-<img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white"
-alt="Mongoose"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"
-alt="Socket.io"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"
-alt="Stripe"/>
-<img src="https://img.shields.io/badge/Sanity-000000?style=for-the-badge&logo=sanity&logoColor=white"
-alt="Sanity"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-alt="Docker"/>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-alt="Amazon AWS"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
-alt="Vercel"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-alt="Git"/>
-<img src="https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="TurboRepo"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-alt="Postman"/>
-<img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"
-alt="Insomnia"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-alt="Figma"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
-alt="Notion"/>
-</div>
-
-<h3>🌐 Let’s Connect</h3>
-
-<div align="center">
-  <!-- Portfolio -->
-  <a href="https://usamaisrar1190-portfolio-website.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Portfolio">
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:usamaisrar1190@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5733" alt="Email">
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/usama-israr-khan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  
-  <!-- Twitter -->
-  <a href="https://twitter.com/usama-israr-khan" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
-  </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/UsamaIsrarKhan" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram">
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/UsamaIsrarDev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
-  </a>
-
-  <!-- GitLab -->
-  <a href="https://gitlab.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab">
-  </a>
-
-  <!-- Bitbucket -->
-  <a href="https://bitbucket.org/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=0052CC" alt="Bitbucket">
-  </a>
-
-  <!-- Behance -->
-  <a href="https://www.behance.net/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=behance&logoColor=1769FF" alt="Behance">
-  </a>
-
-  <!-- Dribbble -->
-  <a href="https://dribbble.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Dribbble-0D1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89" alt="Dribbble">
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
-  </a>
-</div>
-
-
-<h3>GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=usamaisrardev&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaisrardev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+Software Engineer | Full Stack Developer | AI Engineer | WordPress CMS Expert
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=radical" alt="GitHub Streak" />
+Building scalable web apps, AI-powered products, automation systems, and modern digital experiences.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
+---
 
+## About Me
 
+* Software Engineering Student at UBIT (University of Karachi)
+* Full Stack Developer (MERN + Next.js)
+* Building AI-powered applications & automation systems
+* WordPress / CMS Specialist (3+ Years)
+* Learning Web3, LLMs, RAG, Agents & AI Engineering
+* Focused on building real-world SaaS & scalable products
 
+---
 
+## AI & LLM Stack
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VectorDB-5A67D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI Agents-000000?style=for-the-badge"/>
 
+</p>
 
+---
 
+## Tech Stack
 
+### Frontend
 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwind-css)
 
+### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge\&logo=graphql)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io)
 
+### Database
 
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge\&logo=redis)
+
+### Cloud & Tools
+
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+
+---
+
+## Current Focus
+
+* Building AI SaaS Products
+* LLM Integrations
+* RAG Systems
+* AI Agents
+* Automation Workflows
+* Full Stack Applications
+* Advanced WordPress Systems
+
+---
+
+## Featured Projects
+
+### AI Financial Market Sentiment Analyzer
+
+Scraping financial news + social media data for sentiment analysis & market prediction.
+
+### University Event Management System
+
+MERN stack-based event approval and management platform.
+
+### Beneficiary Management App
+
+Built for Saylani Welfare with CRUD, dashboard, and analytics.
+
+### Foodies Spot
+
+Interactive food web app with themes, language switching, and animations.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=usamaisrardev&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaisrardev&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaisrardev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/usama-israr-khan"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:usamaisrar1190@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/UsamaIsrarDev"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://t.me/UsamaIsrarKhan"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://usamaisrar1190-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
+</p>
+
+---
+
+<h3 align="center">
+💡 "Code. Build. Learn. Repeat."
+</h3>
