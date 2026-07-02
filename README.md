@@ -16,9 +16,9 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 
 ## About Me
 
-* Software Engineering Student at UBIT (University of Karachi)
-* Full Stack Developer (MERN + Next.js)
-* Building AI-powered applications & automation systems
+* Graduated Software Engineering at UBIT (University of Karachi).
+* Certified Web and Mobile Application Development.
+* Building AI-powered applications & automation systems.
 * WordPress / CMS Specialist (3+ Years)
 * Learning Web3, LLMs, RAG, Agents & AI Engineering
 * Focused on building real-world SaaS & scalable products
