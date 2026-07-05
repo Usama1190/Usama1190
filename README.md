@@ -9,7 +9,7 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 </p>
 
 <p align="center">
-  <a href="https://usamaisrar.com">https://usamaisrar.com</a>
+  <a href="https://usamaisrar.com" target="_blank">https://usamaisrar.com</a>
 </p>
 
 <p align="center">
