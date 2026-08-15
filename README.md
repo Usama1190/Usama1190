@@ -112,6 +112,29 @@ Interactive food web app with themes, language switching, and animations.
 
 ---
 
+## Currently Working On
+
+### TriTrust (Full-time)
+Tech Stack: Next.js, Node.js, PostgreSQL, Prisma, AWS EC2
+Start: June 17, 2026 | Expected Completion: September 10, 2026
+
+### Proj-Wusta (Part-time)
+Tech Stack: Next.js, Nest.js, PostgreSQL, AWS EC2
+Start: July 24, 2026 | Expected Completion: December 10, 2026
+
+---
+
+## Recent Work
+
+### Frontend Technical Assessment — Hazza Tech
+Completed frontend technical assessment task.
+
+### Mosque Finder (Status: Project Break)
+Tech Stack: Next.js, MongoDB, Node.js
+Duration: March 17, 2026 – June 16, 2026
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
