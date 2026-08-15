@@ -16,8 +16,6 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
   <img src="https://komarev.com/ghpvc/?username=usamaisrardev&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
----
-
 ## About Me
 
 * Graduated Software Engineering at UBIT (University of Karachi).
@@ -26,8 +24,6 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 * WordPress / CMS Specialist (3+ Years)
 * Learning Web3, LLMs, RAG, Agents & AI Engineering
 * Focused on building real-world SaaS & scalable products
-
----
 
 ## AI & LLM Stack
 
@@ -43,8 +39,6 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 <img src="https://img.shields.io/badge/AI Agents-000000?style=for-the-badge"/>
 
 </p>
-
----
 
 ## Tech Stack
 
@@ -78,8 +72,6 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
 
----
-
 ## Current Focus
 
 * Building AI SaaS Products
@@ -89,8 +81,6 @@ Building scalable web apps, AI-powered products, automation systems, and modern 
 * Automation Workflows
 * Full Stack Applications
 * Advanced WordPress Systems
-
----
 
 ## Featured Projects
 
@@ -110,8 +100,6 @@ Built for Saylani Welfare with CRUD, dashboard, and analytics.
 
 Interactive food web app with themes, language switching, and animations.
 
----
-
 ## Currently Working On
 
 ### TriTrust (Full-time)
@@ -122,8 +110,6 @@ Start: June 17, 2026 | Expected Completion: September 10, 2026
 Tech Stack: Next.js, Nest.js, PostgreSQL, AWS EC2
 Start: July 24, 2026 | Expected Completion: December 10, 2026
 
----
-
 ## Recent Work
 
 ### Frontend Technical Assessment — Hazza Tech
@@ -132,8 +118,6 @@ Completed frontend technical assessment task.
 ### Mosque Finder (Status: Project Break)
 Tech Stack: Next.js, MongoDB, Node.js
 Duration: March 17, 2026 – June 16, 2026
-
----
 
 ## GitHub Analytics
 
@@ -149,8 +133,6 @@ Duration: March 17, 2026 – June 16, 2026
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaisrardev&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
 ## Connect With Me
 
 <p align="center">
@@ -160,8 +142,6 @@ Duration: March 17, 2026 – June 16, 2026
 <a href="https://t.me/UsamaIsrarKhan"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
 <a href="https://usamaisrar1190-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
 </p>
-
----
 
 <h3 align="center">
 💡 "Code. Build. Learn. Repeat."
